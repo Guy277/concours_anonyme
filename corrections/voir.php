@@ -175,7 +175,7 @@ if (!$correction) {
                             </div>
                         </section>
                         <div class="form-actions">
-                            <a href="<?php echo APP_URL; ?>/corrections/mes_corrections.php" class="btn btn-secondary">Retour à la liste des corrections</a>
+                            <a href="<?php echo APP_URL; ?>/corrections/mes_corrections.php" class="btn btn-secondary" style="background-color:rgb(183, 188, 191); color: white;">Retour à la liste des corrections</a>
                         </div>
                     <?php endif; ?>
                 </div>

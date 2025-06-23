@@ -97,8 +97,8 @@ if (isset($_SESSION['user_id'])) {
                     </div>
                     
                     <div class="form-actions">
-                        <button type="submit" class="btn">Se connecter</button>
-                        <a href="register.php" class="btn btn-secondary">Pas encore de compte ? S'inscrire</a>
+                        <button type="submit" class="btn" style="background-color: #64b5f6; color: white;">Se connecter</button>
+                        <a href="register.php" class="btn btn-secondary" style="background-color:rgb(183, 188, 191); color: white;">Pas encore de compte ? S'inscrire</a>
                     </div>
                 </form>
             </div>

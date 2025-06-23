@@ -1562,3 +1562,9 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 [2025-06-21 20:51:32] IP: ::1 | URI: /concours_anonyme/logout.php | [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\concours_anonyme\logout.php on line 6
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0
 --------------------------------------------------------------------------------
+[2025-06-21 21:20:50] IP: ::1 | URI: /concours_anonyme/logout.php | [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\concours_anonyme\logout.php on line 6
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
+[2025-06-23 23:23:01] IP: ::1 | URI: /concours_anonyme/logout.php | [NOTICE] session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\concours_anonyme\logout.php on line 6
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+--------------------------------------------------------------------------------
